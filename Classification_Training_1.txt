@@ -1,0 +1,273 @@
+
+3com corp,3576,942605794,738076,8/8/2001,20010601,https://www.sec.gov/Archives/edgar/data/738076/0000891554-01-503883.txt
+aaf mcquay inc,3585,410404230,1005272,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/1005272/0000912057-01-533690.txt
+abc dispensing technologies inc,3559,592001203,748103,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/748103/0000912057-01-525753.txt
+abrams industries inc,1540,580522129,1923,7/18/2001,20010430,https://www.sec.gov/Archives/edgar/data/1923/0000950144-01-504599.txt
+accredo health inc,8090,621642871,1068887,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1068887/0000950144-01-507366.txt
+ade corp,3825,42441829,884498,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/884498/0000912057-01-525717.txt
+aeroflex inc,3674,111974412,2601,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/2601/0000950117-01-501307.txt
+agrilink foods inc,2030,160845824,26285,9/10/2001,20010630,https://www.sec.gov/Archives/edgar/data/26285/0000202932-01-500038.txt
+aircraft service international group inc,4581,650822351,1070173,7/2/2001,20010331,https://www.sec.gov/Archives/edgar/data/1070173/0001015402-01-501704.txt
+aki holding corp,2844,133785856,1067550,9/18/2001,20010630,https://www.sec.gov/Archives/edgar/data/1067550/0001067550-01-500007.txt
+aki inc,2844,133785856,1067549,9/18/2001,20010630,https://www.sec.gov/Archives/edgar/data/1067549/0001067550-01-500007.txt
+alliance gaming corp,7990,880104066,2491,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/2491/0000950148-01-501915.txt
+alliance pharmaceutical corp,2835,141644018,736994,9/10/2001,20010630,https://www.sec.gov/Archives/edgar/data/736994/0000912057-01-531901.txt
+allied healthcare products inc,3842,231370721,874710,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/874710/0000950134-01-506871.txt
+allou health & beauty care inc,5122,112953972,846538,7/3/2001,20010331,https://www.sec.gov/Archives/edgar/data/846538/0000910680-01-500232.txt
+alternative technology resources inc,7371,680195770,885520,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/885520/0001095811-01-505247.txt
+amerco /nv/,7510,880106815,4457,7/2/2001,20010331,https://www.sec.gov/Archives/edgar/data/4457/0000004457-01-500063.txt
+american banknote corp,2750,130460520,51124,8/30/2001,20001231,https://www.sec.gov/Archives/edgar/data/51124/0000899681-01-500252.txt
+american consumers inc,5411,581033765,4811,8/30/2001,20010602,https://www.sec.gov/Archives/edgar/data/4811/0000891554-01-504750.txt
+american science & engineering inc,3844,42240991,5768,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/5768/0000912057-01-523911.txt
+american technical ceramics corp,3670,112113382,766430,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/766430/0000950136-01-501440.txt
+amrep corp,1531,590936128,6207,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/6207/0000006207-01-500003.txt
+anaren microwave inc,3663,160928561,6314,9/19/2001,20010630,https://www.sec.gov/Archives/edgar/data/6314/0000891092-01-500650.txt
+anchor gaming,7990,880304253,914923,9/7/2001,20010630,https://www.sec.gov/Archives/edgar/data/914923/0000912057-01-531685.txt
+applera corp,3826,61534213,77551,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/77551/0001125282-01-502038.txt
+applied films corp,3674,841311581,1040660,8/17/2001,20010630,https://www.sec.gov/Archives/edgar/data/1040660/0000926044-01-500083.txt
+applied industrial technologies inc,5080,340117420,109563,9/19/2001,20010630,https://www.sec.gov/Archives/edgar/data/109563/0000950152-01-504565.txt
+aristotle corp,3841,61165854,790071,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/790071/0001133884-01-500567.txt
+artisoft inc,7372,860446453,877931,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/877931/0000950147-01-501649.txt
+ashton technology group inc,7371,226650372,1003740,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/1003740/0000930661-01-501228.txt
+atec group inc,5045,133673965,893970,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/893970/0001019056-01-500446.txt
+authentidate holding corp,7373,141673067,885074,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/885074/0000950123-01-506729.txt
+autotradecenter com inc,5010,860879572,1085537,8/3/2001,20010331,https://www.sec.gov/Archives/edgar/data/1085537/0000949353-01-500184.txt
+avanex corp,3674,943285348,1056794,9/17/2001,20010630,https://www.sec.gov/Archives/edgar/data/1056794/0001012870-01-501889.txt
+azul holdings inc,7373,42751102,721080,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/721080/0001005444-01-500061.txt
+balanced care corp,8050,251761898,1024096,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1024096/0000893220-01-500724.txt
+bio plexus inc,3841,61211921,865532,7/17/2001,20001231,https://www.sec.gov/Archives/edgar/data/865532/0000914039-01-500112.txt
+boca resorts inc,7900,650676005,1020905,9/21/2001,20010630,https://www.sec.gov/Archives/edgar/data/1020905/0000950144-01-507110.txt
+bolt technology corp,3533,60773922,354655,9/25/2001,20010630,https://www.sec.gov/Archives/edgar/data/354655/0001021408-01-507250.txt
+boston celtics limited partnership /de/,7900,43416346,1059969,9/21/2001,20010630,https://www.sec.gov/Archives/edgar/data/1059969/0000910647-01-500198.txt
+boston celtics limited partnership ii /de/,7900,42936516,805009,9/21/2001,20010630,https://www.sec.gov/Archives/edgar/data/805009/0000910647-01-500197.txt
+breakaway solutions inc,7389,43285165,1076643,7/5/2001,20001231,https://www.sec.gov/Archives/edgar/data/1076643/0000912057-01-522542.txt
+briggs & stratton corp,3510,390182330,14195,9/12/2001,20010701,https://www.sec.gov/Archives/edgar/data/14195/0000950124-01-503191.txt
+brinker international inc,5812,751914582,703351,9/10/2001,20010627,https://www.sec.gov/Archives/edgar/data/703351/0000912057-01-531833.txt
+brown forman corp,2080,610143150,14693,7/27/2001,20010430,https://www.sec.gov/Archives/edgar/data/14693/0000014693-01-500021.txt
+burlington coat factory warehouse corp,5651,221970303,718916,8/31/2001,20010602,https://www.sec.gov/Archives/edgar/data/718916/0000718916-01-500026.txt
+butler national corp,3721,410834293,15847,8/14/2001,20010430,https://www.sec.gov/Archives/edgar/data/15847/0000015847-01-500005.txt
+c cor net corp,3663,240811591,350621,9/14/2001,20010629,https://www.sec.gov/Archives/edgar/data/350621/0001021408-01-506742.txt
+cadmus communications corp/new,2750,541274108,745274,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/745274/0000916641-01-501241.txt
+calico commerce inc/,7389,770373344,1081154,7/13/2001,20010331,https://www.sec.gov/Archives/edgar/data/1081154/0000891618-01-501581.txt
+california beach restaurants inc,5812,952693503,738274,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/738274/0000950148-01-501316.txt
+candela corp /de/,3845,42477008,793279,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/793279/0000912057-01-533721.txt
+cannondale corp /,3751,60871823,930795,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/930795/0000950123-01-506800.txt
+catalyst semiconductor inc,3674,770083129,899636,7/26/2001,20010429,https://www.sec.gov/Archives/edgar/data/899636/0001095811-01-503410.txt
+cca companies inc,7990,650675901,1026671,9/21/2001,20010630,https://www.sec.gov/Archives/edgar/data/1026671/0001132072-01-500240.txt
+celadon group inc,4213,133361050,865941,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/865941/0000950137-01-503800.txt
+chaus bernard inc,2330,132807386,793983,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/793983/0000950136-01-501441.txt
+checkfree corp \ga\,7389,582360335,949341,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/949341/0000950152-01-504724.txt
+cisco systems inc,3576,770059951,858877,9/24/2001,20010728,https://www.sec.gov/Archives/edgar/data/858877/0001095811-01-505065.txt
+clorox co /de/,2842,310595760,21076,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/21076/0000950149-01-501457.txt
+colorado medtech inc,3845,840731006,720013,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/720013/0000950134-01-506870.txt
+comshare inc,7372,381804887,201513,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/201513/0000950124-01-503352.txt
+concord camera corp,3861,133152196,831861,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/831861/0001125282-01-502085.txt
+concurrent computer corp/de,3571,42735766,749038,9/19/2001,20010630,https://www.sec.gov/Archives/edgar/data/749038/0001015402-01-502732.txt
+condor technology solutions inc,7374,541814931,1042799,7/6/2001,20001231,https://www.sec.gov/Archives/edgar/data/1042799/0000912057-01-522919.txt
+continental information systems corp,5045,160956508,24071,8/30/2001,20010531,https://www.sec.gov/Archives/edgar/data/24071/0001073339-01-500013.txt
+corgenix medical corp/co,2835,931223466,1063665,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1063665/0000891554-01-505450.txt
+corinthian colleges inc,8200,330717312,1066134,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1066134/0000898430-01-502596.txt
+corrpro companies inc /oh/,8711,341422570,907072,7/13/2001,20010331,https://www.sec.gov/Archives/edgar/data/907072/0000950152-01-503188.txt
+cox technologies inc,1311,860220617,65031,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/65031/0000950147-01-501307.txt
+cree inc,3674,561572719,895419,8/27/2001,20010624,https://www.sec.gov/Archives/edgar/data/895419/0000950144-01-506414.txt
+criticare systems inc /de/,3845,391501563,812121,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/812121/0001042167-01-500047.txt
+crown crafts inc,2211,580678148,25895,9/21/2001,20010401,https://www.sec.gov/Archives/edgar/data/25895/0000950144-01-507105.txt
+culp inc,2211,561001967,723603,7/26/2001,20010429,https://www.sec.gov/Archives/edgar/data/723603/0000723603-01-500028.txt
+cutter & buck inc,2320,911474587,948069,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/948069/0000912057-01-525734.txt
+cyberguard corp,3571,650510339,927133,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/927133/0000950144-01-507347.txt
+darden restaurants inc,5812,593305930,940944,8/16/2001,20010527,https://www.sec.gov/Archives/edgar/data/940944/0000940944-01-500072.txt
+dataram corp,3572,221831409,27093,7/26/2001,20010430,https://www.sec.gov/Archives/edgar/data/27093/0001001746-01-500022.txt
+datatec systems inc,7373,942914253,768119,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/768119/0000921895-01-500276.txt
+del monte foods co,2033,133542950,866873,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/866873/0000950149-01-501446.txt
+delta mills inc,2211,132677657,1046860,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/1046860/0001015402-01-502822.txt
+devry inc,8200,363150143,730464,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/730464/0000730464-01-500009.txt
+dewey electronics corp,3480,131803974,28561,9/24/2001,20010630,https://www.sec.gov/Archives/edgar/data/28561/0000028561-01-500018.txt
+diedrich coffee inc,5400,330086628,947661,9/25/2001,20010627,https://www.sec.gov/Archives/edgar/data/947661/0001095811-01-505149.txt
+digital transmission systems inc \de\,3661,582037949,1005179,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1005179/0000950144-01-507377.txt
+dimon inc,5150,541746567,939930,9/6/2001,20010630,https://www.sec.gov/Archives/edgar/data/939930/0000939930-01-500020.txt
+discount auto parts inc,5531,591447420,889409,8/24/2001,20010529,https://www.sec.gov/Archives/edgar/data/889409/0000950144-01-506399.txt
+doskocil manufacturing co inc,3089,751281683,1046628,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1046628/0000950134-01-506892.txt
+dualstar technologies corp,4813,133776834,929546,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/929546/0000950136-01-501462.txt
+e-dentist com inc,8011,760545043,1042291,7/6/2001,20010331,https://www.sec.gov/Archives/edgar/data/1042291/0000950147-01-501210.txt
+e-medsoft com,7374,841037630,800181,8/1/2001,20010331,https://www.sec.gov/Archives/edgar/data/800181/0000950148-01-501354.txt
+eagle point software corp,7372,421204819,945066,9/14/2001,20010630,https://www.sec.gov/Archives/edgar/data/945066/0000950131-01-503355.txt
+eagle supply group inc,5031,133889248,1016959,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1016959/0000943440-01-500249.txt
+edelbrock corp,3714,330627520,929037,9/25/2001,20010630,https://www.sec.gov/Archives/edgar/data/929037/0001095811-01-505132.txt
+edison schools inc,8200,133915075,1089567,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/1089567/0000950123-01-506728.txt
+education management corporation,8200,251119571,880059,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/880059/0001021408-01-507490.txt
+egain communications corp,7372,770466366,1066194,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1066194/0001012870-01-502080.txt
+elcor corp,2950,751217920,32017,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/32017/0000950134-01-506717.txt
+elcotel inc,3661,592518405,801448,7/13/2001,20010331,https://www.sec.gov/Archives/edgar/data/801448/0000891092-01-500373.txt
+electro rent corp,7359,952412961,32166,8/28/2001,20010531,https://www.sec.gov/Archives/edgar/data/32166/0000950148-01-501671.txt
+elmers restaurants inc,5812,930836824,771214,7/2/2001,20010402,https://www.sec.gov/Archives/edgar/data/771214/0001072613-01-500675.txt
+emons transportation group inc,4011,232441662,32666,9/24/2001,20010630,https://www.sec.gov/Archives/edgar/data/32666/0000950109-01-503704.txt
+emtec inc/nj,7389,870273300,5117,7/13/2001,20010331,https://www.sec.gov/Archives/edgar/data/5117/0000950117-01-500720.txt
+encore computer corp /de/,3571,42789167,764037,7/3/2001,20001231,https://www.sec.gov/Archives/edgar/data/764037/0001021408-01-503048.txt
+energy corp of america,1311,841235822,32880,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/32880/0001015402-01-502865.txt
+enzon inc,2836,222372868,727510,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/727510/0000891554-01-505567.txt
+escalon medical corp,3845,330272839,862668,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/862668/0000893220-01-500721.txt
+esps inc,7372,232845135,1082456,7/3/2001,20010331,https://www.sec.gov/Archives/edgar/data/1082456/0000930661-01-501139.txt
+estee lauder companies inc,2844,112408943,1001250,9/17/2001,20010630,https://www.sec.gov/Archives/edgar/data/1001250/0000930413-01-501188.txt
+ethan allen interiors inc,2511,61275288,896156,9/17/2001,20010630,https://www.sec.gov/Archives/edgar/data/896156/0000902561-01-500236.txt
+euniverse inc,5735,61556248,1088244,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/1088244/0000950117-01-500729.txt
+evans bob farms inc,5812,314421866,33769,7/25/2001,20010427,https://www.sec.gov/Archives/edgar/data/33769/0000950152-01-503366.txt
+evolve software inc,7372,943219745,1097002,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1097002/0001015402-01-502891.txt
+extended systems inc,3577,820399670,1051490,9/17/2001,20010630,https://www.sec.gov/Archives/edgar/data/1051490/0001072613-01-500908.txt
+extreme networks inc,3576,770430270,1078271,9/26/2001,20010701,https://www.sec.gov/Archives/edgar/data/1078271/0001012870-01-502006.txt
+fairchild corp,3452,340728587,9779,9/21/2001,20010630,https://www.sec.gov/Archives/edgar/data/9779/0000009779-01-500016.txt
+fastcomm communications corp,3661,541289115,828529,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/828529/0000950133-01-502003.txt
+finisar corp,3674,943038428,1094739,7/18/2001,20010430,https://www.sec.gov/Archives/edgar/data/1094739/0000912057-01-524199.txt
+flow international corp,3569,911104842,713002,7/27/2001,20010430,https://www.sec.gov/Archives/edgar/data/713002/0000912057-01-525626.txt
+fountain powerboat industries inc,3730,880160250,764858,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/764858/0000944543-01-500035.txt
+fox entertainment group inc,7812,954066193,1068002,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1068002/0001021408-01-507495.txt
+frontstep inc,7372,311083175,872443,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/872443/0000950152-01-504739.txt
+ftd com inc,7389,364294509,1086759,8/6/2001,20010630,https://www.sec.gov/Archives/edgar/data/1086759/0001104659-01-501129.txt
+g&k services inc,7200,410449530,39648,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/39648/0001104659-01-502217.txt
+galaxy nutritional foods co,2020,251391475,819527,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/819527/0000950144-01-504520.txt
+general kinetics inc,3490,540594435,40675,8/29/2001,20010531,https://www.sec.gov/Archives/edgar/data/40675/0000928385-01-501659.txt
+gentner communications corp,3663,870398877,840715,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/840715/0000891554-01-505330.txt
+geographics inc,5110,870305614,1000621,7/19/2001,20010331,https://www.sec.gov/Archives/edgar/data/1000621/0000950124-01-502360.txt
+gfsi holdings inc,2390,742810744,1036180,9/27/2001,20010629,https://www.sec.gov/Archives/edgar/data/1036180/0000891554-01-505418.txt
+gfsi inc,2390,742810748,1036327,9/27/2001,20010629,https://www.sec.gov/Archives/edgar/data/1036327/0000891554-01-505309.txt
+gibraltar packaging group inc,2650,470496290,882830,9/24/2001,20010630,https://www.sec.gov/Archives/edgar/data/882830/0001021408-01-507175.txt
+globecomm systems inc,3663,113225567,1031028,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1031028/0000950136-01-501451.txt
+gold kist inc,2015,580255560,215994,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/215994/0000215994-01-500008.txt
+greg manning auctions inc,7389,222365834,895516,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/895516/0000922423-01-500824.txt
+greystone digital technology inc,7372,841107140,840254,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/840254/0000936392-01-500149.txt
+h power corp,3621,223010742,1094959,8/16/2001,20010531,https://www.sec.gov/Archives/edgar/data/1094959/0000950136-01-501200.txt
+hain celestial group inc,2000,223240619,910406,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/910406/0000910406-01-500006.txt
+handleman co /mi/,5099,381242806,314727,7/24/2001,20010428,https://www.sec.gov/Archives/edgar/data/314727/0001045969-01-500701.txt
+hanover foods corp /pa/,2033,230670710,853733,9/4/2001,20010603,https://www.sec.gov/Archives/edgar/data/853733/0000893220-01-500671.txt
+hathaway corp,3825,840518115,46129,9/21/2001,20010630,https://www.sec.gov/Archives/edgar/data/46129/0000912057-01-533025.txt
+hauser inc,2833,840926801,773723,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/773723/0001104659-01-501028.txt
+henry co,2950,953618402,46916,8/24/2001,20001231,https://www.sec.gov/Archives/edgar/data/46916/0000912057-01-530239.txt
+high speed net solutions inc,7389,650185306,1104332,7/5/2001,20001231,https://www.sec.gov/Archives/edgar/data/1104332/0000950133-01-501793.txt
+high voltage engineering corp,3620,42035796,47395,8/2/2001,20010428,https://www.sec.gov/Archives/edgar/data/47395/0000912057-01-526323.txt
+hlm design inc,8700,562018819,1049129,7/23/2001,20010427,https://www.sec.gov/Archives/edgar/data/1049129/0000950109-01-502306.txt
+hudson respiratory care inc,3841,951867330,1061893,8/15/2001,20001231,https://www.sec.gov/Archives/edgar/data/1061893/0000898430-01-501957.txt
+iceberg corp of america,2080,954763671,1098012,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/1098012/0001098012-01-500007.txt
+icg communications inc /de/,4813,841342022,1013240,7/23/2001,20001231,https://www.sec.gov/Archives/edgar/data/1013240/0001021408-01-503681.txt
+icg holdings canada co /co/,4813,841342022,786343,7/23/2001,20001231,https://www.sec.gov/Archives/edgar/data/786343/0001021408-01-503681.txt
+icg holdings inc,4813,841342022,1001131,7/23/2001,20001231,https://www.sec.gov/Archives/edgar/data/1001131/0001021408-01-503681.txt
+identix inc,7373,942842496,735780,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/735780/0001095811-01-505259.txt
+ifs international holdings inc,7373,133393646,808310,8/13/2001,20010430,https://www.sec.gov/Archives/edgar/data/808310/0000808310-01-500012.txt
+ii-vi inc,3827,251214948,820318,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/820318/0000820318-01-500018.txt
+immucor inc,2835,222408354,736822,9/13/2001,20010531,https://www.sec.gov/Archives/edgar/data/736822/0000736822-01-500017.txt
+immunogen inc,2834,42726691,855654,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/855654/0000912057-01-533886.txt
+impco technologies inc,3714,911039211,790708,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/790708/0000898430-01-501491.txt
+infocast corp /nv,7389,841460887,1093682,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/1093682/0000921895-01-500248.txt
+infogrames inc,7372,953825313,1002607,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/1002607/0000950123-01-506722.txt
+innovative clinical solutions ltd,8011,650617076,1002022,8/10/2001,20010131,https://www.sec.gov/Archives/edgar/data/1002022/0000912057-01-527651.txt
+insight health services corp,8071,330702770,1012697,9/14/2001,20010630,https://www.sec.gov/Archives/edgar/data/1012697/0000912057-01-532198.txt
+intermagnetics general corp,3490,141537454,351012,8/27/2001,20010527,https://www.sec.gov/Archives/edgar/data/351012/0000950116-01-500754.txt
+international airline support group inc,5080,592223025,859307,8/29/2001,20010531,https://www.sec.gov/Archives/edgar/data/859307/0000859307-01-500010.txt
+interstate bakeries corp/de/,2050,431470322,829499,8/24/2001,20010602,https://www.sec.gov/Archives/edgar/data/829499/0000829499-01-500007.txt
+intertan inc,5731,752130875,803227,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/803227/0001021408-01-507369.txt
+interwave communications international ltd,3663,980155633,1095478,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/1095478/0000912057-01-533668.txt
+introgen therapeutics inc,2834,742704230,1018710,9/19/2001,20010630,https://www.sec.gov/Archives/edgar/data/1018710/0000950134-01-506440.txt
+invivo corp,3845,770115161,806168,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/806168/0000950149-01-501461.txt
+iomed inc,2834,870441272,1041652,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1041652/0000912057-01-533779.txt
+ios brands corp,7389,133711271,944537,8/6/2001,20010630,https://www.sec.gov/Archives/edgar/data/944537/0000950134-01-504664.txt
+iwerks entertainment inc,7830,954439361,830404,9/24/2001,20010630,https://www.sec.gov/Archives/edgar/data/830404/0000891554-01-504947.txt
+jaclyn inc,3100,221432053,52969,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/52969/0001019056-01-500447.txt
+jaco electronics inc,5065,111978958,52971,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/52971/0000891554-01-505565.txt
+jayark corp,5020,131863419,53260,7/26/2001,20010430,https://www.sec.gov/Archives/edgar/data/53260/0000053260-01-500003.txt
+jds uniphase corp /ca/,3674,942579683,912093,9/19/2001,20010630,https://www.sec.gov/Archives/edgar/data/912093/0001095811-01-504970.txt
+jetform corp,7372,0,887614,7/27/2001,20010430,https://www.sec.gov/Archives/edgar/data/887614/0000950127-01-500221.txt
+kensey nash corp,3841,363316412,1002811,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1002811/0000950137-01-503813.txt
+key energy services inc,1381,42648081,318996,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/318996/0000912057-01-533709.txt
+key tronic corp,3577,910849125,719733,9/12/2001,20010630,https://www.sec.gov/Archives/edgar/data/719733/0001021408-01-506598.txt
+kla tencor corp,3827,42564110,319201,9/21/2001,20010630,https://www.sec.gov/Archives/edgar/data/319201/0001095811-01-505048.txt
+knape & vogt manufacturing co,2540,380722920,56362,9/14/2001,20010630,https://www.sec.gov/Archives/edgar/data/56362/0000926044-01-500098.txt
+korn ferry international,7361,952623879,56679,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/56679/0001021408-01-504080.txt
+la-z-boy inc,2510,380751137,57131,7/27/2001,20010727,https://www.sec.gov/Archives/edgar/data/57131/0000057131-01-500015.txt
+lam sw inc,3911,621563911,1030860,8/15/2001,20010331,https://www.sec.gov/Archives/edgar/data/1030860/0001026700-01-500157.txt
+lantronix inc,3576,330362767,1114925,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1114925/0000898430-01-502607.txt
+lazare kaplan international inc,5094,132728690,202375,8/28/2001,20010531,https://www.sec.gov/Archives/edgar/data/202375/0000950117-01-501080.txt
+lecroy corp,3825,132507777,943580,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/943580/0001132072-01-500242.txt
+lectec corp /mn/,3845,431301878,805928,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/805928/0000897101-01-500638.txt
+liberate technologies,7372,943245315,1085776,8/24/2001,20010531,https://www.sec.gov/Archives/edgar/data/1085776/0000912057-01-530217.txt
+lifecore biomedical inc,2836,410948334,28626,9/20/2001,20010630,https://www.sec.gov/Archives/edgar/data/28626/0000950137-01-503639.txt
+lions gate entertainment corp /cn/,7812,0,929351,7/24/2001,COSTS,https://www.sec.gov/Archives/edgar/data/929351/0000902595-01-500107.txt
+lsi industries inc,3640,310888951,763532,9/19/2001,20010630,https://www.sec.gov/Archives/edgar/data/763532/0001021408-01-506994.txt
+lumenon innovative lightwave technology inc,3220,980213257,1098432,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1098432/0000950135-01-502966.txt
+marcus corp,7011,391139844,62234,8/27/2001,20010531,https://www.sec.gov/Archives/edgar/data/62234/0000897069-01-500402.txt
+mck communications inc,3661,61555163,1093576,7/2/2001,20010430,https://www.sec.gov/Archives/edgar/data/1093576/0000950135-01-501903.txt
+measurement specialties inc,3829,222378738,778734,7/5/2001,20010331,https://www.sec.gov/Archives/edgar/data/778734/0001015402-01-501740.txt
+medtronic inc,3845,410793183,64670,7/26/2001,20010427,https://www.sec.gov/Archives/edgar/data/64670/0000897101-01-500449.txt
+memberworks inc,7389,61276882,1020996,9/6/2001,20010630,https://www.sec.gov/Archives/edgar/data/1020996/0000950123-01-506300.txt
+memry corp,3541,61084424,720896,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/720896/0001021408-01-507494.txt
+mercury air group inc,5172,111800515,52532,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/52532/0000950150-01-500612.txt
+mercury computer systems inc,3670,42741391,1049521,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1049521/0000950135-01-502965.txt
+merix corp,3672,931135197,921365,8/17/2001,20010526,https://www.sec.gov/Archives/edgar/data/921365/0000950109-01-503004.txt
+methode electronics inc,3678,362090085,65270,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/65270/0000891554-01-503710.txt
+micrografx inc,7372,751952080,756497,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/756497/0000930661-01-501883.txt
+microsoft corp,7372,911144442,789019,9/18/2001,20010630,https://www.sec.gov/Archives/edgar/data/789019/0001032210-01-501099.txt
+midwest grain products inc,2040,480531200,835011,9/13/2001,20010630,https://www.sec.gov/Archives/edgar/data/835011/0000916002-01-500100.txt
+milastar corp,3390,132636669,66544,7/31/2001,20010430,https://www.sec.gov/Archives/edgar/data/66544/0000066544-01-500002.txt
+mississippi chemical corp /ms/,2870,640292638,66895,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/66895/0000066895-01-500015.txt
+moa hospitality inc,7011,330166914,816746,8/1/2001,20001231,https://www.sec.gov/Archives/edgar/data/816746/0000816746-01-500003.txt
+modern technology corp,8741,112620387,711422,9/25/2001,20010630,https://www.sec.gov/Archives/edgar/data/711422/0001143799-01-500017.txt
+moldflow corp,7372,43406763,1103234,9/21/2001,20010630,https://www.sec.gov/Archives/edgar/data/1103234/0000912057-01-533047.txt
+mondavi robert corp,2080,942765451,902276,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/902276/0000950149-01-501448.txt
+movie star inc /ny/,2340,135651322,93631,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/93631/0000891554-01-505125.txt
+mpw industrial services group inc,7340,341567260,1047098,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1047098/0000950152-01-504764.txt
+msu devices inc,3674,222748288,798952,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/798952/0001125282-01-502033.txt
+myriad genetics inc,2835,870494517,899923,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/899923/0001021408-01-507485.txt
+nahc inc,8090,133247827,802843,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/802843/0000912057-01-533880.txt
+napco security systems inc,3669,112277818,69633,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/69633/0000950123-01-506817.txt
+national data corp,7389,580977458,70033,8/27/2001,20010531,https://www.sec.gov/Archives/edgar/data/70033/0000931763-01-501573.txt
+national semiconductor corp,3674,952095071,70530,8/1/2001,20010527,https://www.sec.gov/Archives/edgar/data/70530/0000070530-01-500005.txt
+ncs healthcare inc,5912,341816187,1004990,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/1004990/0000950152-01-504715.txt
+neogen corp,2835,382367843,711377,8/28/2001,20010531,https://www.sec.gov/Archives/edgar/data/711377/0001045969-01-500986.txt
+network appliance inc,3572,770307520,1002047,7/26/2001,20010427,https://www.sec.gov/Archives/edgar/data/1002047/0000891618-01-501663.txt
+netzero inc,7370,954644384,1089944,9/25/2001,20010630,https://www.sec.gov/Archives/edgar/data/1089944/0000912057-01-533416.txt
+nobel learning communities inc,8200,222465204,721237,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/721237/0001021408-01-507461.txt
+norstan inc,7385,410835746,72418,7/30/2001,20010430,https://www.sec.gov/Archives/edgar/data/72418/0000950137-01-502594.txt
+northfield laboratories inc /de/,2836,363378733,920947,8/3/2001,20010531,https://www.sec.gov/Archives/edgar/data/920947/0000950137-01-502687.txt
+novametrix medical systems inc,3845,60977422,310450,7/27/2001,20010429,https://www.sec.gov/Archives/edgar/data/310450/0000950123-01-504787.txt
+novo networks inc,4812,752233445,826773,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/826773/0000950134-01-506891.txt
+nuco2 inc /fl,5160,650180800,947577,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/947577/0000921895-01-500388.txt
+nutrition 21 inc,2836,112653613,744962,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/744962/0000930413-01-501264.txt
+nutrition management services co/pa,5812,232095332,879303,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/879303/0000921895-01-500396.txt
+odetics inc,3663,952588496,350868,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/350868/0000931763-01-501040.txt
+openwave systems inc,7372,943219054,1082506,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1082506/0001012870-01-502084.txt
+oplink communications inc,3661,770411346,1022225,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1022225/0001012870-01-502073.txt
+oracle corp /de/,7372,942871189,777676,8/10/2001,20010630,https://www.sec.gov/Archives/edgar/data/777676/0000898430-01-501708.txt
+orleans homebuilders inc,1531,590874323,38570,9/25/2001,20010630,https://www.sec.gov/Archives/edgar/data/38570/0000950116-01-500857.txt
+osi systems inc,3674,330238801,1039065,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1039065/0001021408-01-507509.txt
+out takes inc,7200,954363944,889353,7/17/2001,20010331,https://www.sec.gov/Archives/edgar/data/889353/0001086715-01-500079.txt
+outlook group corp,2750,391278569,867490,8/9/2001,20010531,https://www.sec.gov/Archives/edgar/data/867490/0000950124-01-502620.txt
+outsource international inc,7363,650675628,1013316,7/17/2001,20010401,https://www.sec.gov/Archives/edgar/data/1013316/0000950144-01-504558.txt
+oxford industries inc,2320,580831862,75288,8/29/2001,20010601,https://www.sec.gov/Archives/edgar/data/75288/0000075288-01-500015.txt
+parlex corp,3672,42464749,724988,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/724988/0000910647-01-500205.txt
+parlux fragrances inc,2844,222562955,802356,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/802356/0001116502-01-500744.txt
+paul son gaming corp,3944,880310433,918580,8/29/2001,20010531,https://www.sec.gov/Archives/edgar/data/918580/0000912057-01-530739.txt
+peerless manufacturing co,3569,750724417,76954,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/76954/0000950134-01-506864.txt
+peerless tube co,3411,221191280,76958,9/21/2001,20001231,https://www.sec.gov/Archives/edgar/data/76958/0001005150-01-500641.txt
+perrigo co,2834,382799573,820096,9/7/2001,20010630,https://www.sec.gov/Archives/edgar/data/820096/0000950124-01-503144.txt
+pharmakinetics laboratories inc,8734,521067519,351506,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/351506/0001021408-01-507483.txt
+phc inc /ma/,8082,42601571,915127,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/915127/0000915127-01-500028.txt
+pivotal corp,7389,0,1086329,9/28/2001,.,https://www.sec.gov/Archives/edgar/data/1086329/0000912282-01-500246.txt
+pizza inn inc /mo/,5140,470654575,718332,9/19/2001,20010624,https://www.sec.gov/Archives/edgar/data/718332/0000718332-01-500012.txt
+pmr corp,8093,232491707,829608,7/25/2001,20010430,https://www.sec.gov/Archives/edgar/data/829608/0000912057-01-525215.txt
+precision auto care inc,7500,541847851,1038541,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1038541/0001021408-01-507500.txt
+princeton video image inc,7310,223062052,1009833,9/28/2001,20010630,https://www.sec.gov/Archives/edgar/data/1009833/0000893220-01-500720.txt
+pro fac cooperative inc,5140,160845824,202932,9/10/2001,20010630,https://www.sec.gov/Archives/edgar/data/202932/0000202932-01-500039.txt
+procter & gamble co,2840,310411980,80424,9/12/2001,20010630,https://www.sec.gov/Archives/edgar/data/80424/0000950152-01-504449.txt
+provant inc,8200,43395167,1054853,9/14/2001,20010630,https://www.sec.gov/Archives/edgar/data/1054853/0000950135-01-502813.txt
+quixote corp,3089,362675371,32870,9/26/2001,20010630,https://www.sec.gov/Archives/edgar/data/32870/0000912057-01-533542.txt
+rab holdings inc,5122,133893246,1067702,7/12/2001,20010331,https://www.sec.gov/Archives/edgar/data/1067702/0001125282-01-501173.txt
+readers digest association inc,2731,131726769,858558,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/858558/0000891554-01-505369.txt
+regent assisted living inc,8051,931171049,1000693,7/26/2001,20001231,https://www.sec.gov/Archives/edgar/data/1000693/0001025894-01-500157.txt
+rent way inc,7359,251407782,893046,7/2/2001,20000930,https://www.sec.gov/Archives/edgar/data/893046/0000950152-01-503043.txt
+resmed inc,3841,980152841,943819,9/20/2001,20010630,https://www.sec.gov/Archives/edgar/data/943819/0001021408-01-507065.txt
+resources connection inc,8742,330832424,1084765,7/18/2001,20010531,https://www.sec.gov/Archives/edgar/data/1084765/0001017062-01-500609.txt
+richardson electronics ltd/de,5065,362096643,355948,8/29/2001,20010531,https://www.sec.gov/Archives/edgar/data/355948/0000355948-01-500020.txt
+ridgewood hotels inc,7011,581656330,783728,7/16/2001,20010331,https://www.sec.gov/Archives/edgar/data/783728/0000891554-01-503488.txt
+river holding corp,3841,954674065,1061892,9/14/2001,20001231,https://www.sec.gov/Archives/edgar/data/1061892/0001021408-01-506670.txt
+riviana foods inc /de/,2040,760177572,934650,9/20/2001,20010701,https://www.sec.gov/Archives/edgar/data/934650/0000950129-01-503101.txt
+rockshox inc,3751,770396555,1017047,7/17/2001,20010331,https://www.sec.gov/Archives/edgar/data/1017047/0001015402-01-501859.txt
+ross systems inc/ca,7372,942170198,873594,9/27/2001,20010630,https://www.sec.gov/Archives/edgar/data/873594/0000914317-01-500363.txt
+royal precision inc,3949,61453896,1016395,8/3/2001,20010531,https://www.sec.gov/Archives/edgar/data/1016395/0000950147-01-501348.txt
+rpm inc/oh/,2851,346550857,110621,8/29/2001,20010531,https://www.sec.gov/Archives/edgar/data/110621/0000950152-01-504169.txt
